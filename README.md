@@ -32,4 +32,4 @@ The default behaviour in popular spread sheet applications is to store the value
 
 ## License
 
-Unmerge is licensed under the GPLv3. A copy of the license can be found in [LICENSE](LICENCE).
+Unmerge is licensed under the GPLv3. A copy of the license can be found in [LICENSE](LICENSE).
